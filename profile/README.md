@@ -155,7 +155,7 @@ We're always looking for passionate individuals and organizations who share our 
 <div align="center">
 
 <!-- Activity Graph -->
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=globsoftinc&custom_title=GlobSoft%20Inc.%20Contribution%20Graph&bg_color=0d1117&color=667eea&line=764ba2&point=f093fb&area_color=667eea&title_color=ffffff&area=true" width="100%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=rajan-poudel&custom_title=GlobSoft%20Inc.%20Contribution%20Graph&bg_color=0d1117&color=667eea&line=764ba2&point=f093fb&area_color=667eea&title_color=ffffff&area=true" width="100%"/>
 
 </div>
 
