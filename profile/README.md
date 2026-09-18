@@ -24,7 +24,7 @@
 
 > *"We're not just a tech startup. We're architects of tomorrow's digital landscape."*
 
-At **GlobSoft Inc.**, we transform bold ideas into groundbreaking realities. Born in the heart of Nepal 🇳🇵, we're on a mission to create cutting-edge solutions that empower businesses and individuals to thrive in an ever-evolving digital world.
+At **Globsoft Tech**, we transform bold ideas into groundbreaking realities. Born in the heart of Nepal 🇳🇵, we're on a mission to create cutting-edge solutions that empower businesses and individuals to thrive in an ever-evolving digital world.
 
 <div align="center">
 
@@ -166,7 +166,7 @@ We're always looking for passionate individuals and organizations who share our 
 <!-- Footer Wave -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%"/>
 
-<sub>Made with 💜 in Nepal | © 2025 GlobSoft Inc. All Rights Reserved</sub>
+<sub>Made with 💜 in Nepal | © 2025 Globsoft Tech All Rights Reserved</sub>
 
 <br/>
 
